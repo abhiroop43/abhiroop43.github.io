@@ -1,12 +1,12 @@
 [
     {
         "country":"World",
-        "totalCases":"2831785",
-        "newCases":"2974",
-        "totalDeaths":"197306",
-        "newDeaths":"207",
-        "totalRecovered":"806953",
-        "activeCases":"1827526",
+        "totalCases":"2831860",
+        "newCases":"3034",
+        "totalDeaths":"197318",
+        "newDeaths":"219",
+        "totalRecovered":"807010",
+        "activeCases":"1827532",
         "seriousCritical":"58524",
         "totalCasesPerMillion":"363",
         "deathsPerMillion":"25.3",
@@ -15,12 +15,12 @@
     },
     {
         "country":"Europe",
-        "totalCases":"1225314",
-        "newCases":"",
-        "totalDeaths":"117324",
-        "newDeaths":"",
-        "totalRecovered":"396654",
-        "activeCases":"711336",
+        "totalCases":"1225374",
+        "newCases":"60",
+        "totalDeaths":"117336",
+        "newDeaths":"12",
+        "totalRecovered":"396711",
+        "activeCases":"711327",
         "seriousCritical":"26300",
         "totalCasesPerMillion":"",
         "deathsPerMillion":"",
@@ -267,12 +267,12 @@
     },
     {
         "country":"Africa",
-        "totalCases":"29825",
+        "totalCases":"29840",
         "newCases":"",
         "totalDeaths":"1328",
         "newDeaths":"",
         "totalRecovered":"9140",
-        "activeCases":"19357",
+        "activeCases":"19372",
         "seriousCritical":"148",
         "totalCasesPerMillion":"",
         "deathsPerMillion":"",
@@ -938,6 +938,20 @@
         "testsPerMillion":"5891"
     },
     {
+        "country":"Hungary",
+        "totalCases":"2443",
+        "newCases":"60",
+        "totalDeaths":"262",
+        "newDeaths":"12",
+        "totalRecovered":"458",
+        "activeCases":"1723",
+        "seriousCritical":"61",
+        "totalCasesPerMillion":"253",
+        "deathsPerMillion":"27",
+        "totalTests":"60801",
+        "testsPerMillion":"6294"
+    },
+    {
         "country":"Kazakhstan",
         "totalCases":"2416",
         "newCases":"",
@@ -950,20 +964,6 @@
         "deathsPerMillion":"1",
         "totalTests":"153492",
         "testsPerMillion":"8175"
-    },
-    {
-        "country":"Hungary",
-        "totalCases":"2383",
-        "newCases":"",
-        "totalDeaths":"250",
-        "newDeaths":"",
-        "totalRecovered":"401",
-        "activeCases":"1732",
-        "seriousCritical":"61",
-        "totalCasesPerMillion":"247",
-        "deathsPerMillion":"26",
-        "totalTests":"58251",
-        "testsPerMillion":"6030"
     },
     {
         "country":"Croatia",
@@ -1778,6 +1778,20 @@
         "testsPerMillion":"32352"
     },
     {
+        "country":"Tanzania",
+        "totalCases":"299",
+        "newCases":"",
+        "totalDeaths":"10",
+        "newDeaths":"",
+        "totalRecovered":"48",
+        "activeCases":"241",
+        "seriousCritical":"7",
+        "totalCasesPerMillion":"5",
+        "deathsPerMillion":"0.2",
+        "totalTests":"",
+        "testsPerMillion":""
+    },
+    {
         "country":"Jamaica",
         "totalCases":"288",
         "newCases":"31",
@@ -1790,20 +1804,6 @@
         "deathsPerMillion":"2",
         "totalTests":"2518",
         "testsPerMillion":"850"
-    },
-    {
-        "country":"Tanzania",
-        "totalCases":"284",
-        "newCases":"",
-        "totalDeaths":"10",
-        "newDeaths":"",
-        "totalRecovered":"48",
-        "activeCases":"226",
-        "seriousCritical":"7",
-        "totalCasesPerMillion":"5",
-        "deathsPerMillion":"0.2",
-        "totalTests":"",
-        "testsPerMillion":""
     },
     {
         "country":"Vietnam",
